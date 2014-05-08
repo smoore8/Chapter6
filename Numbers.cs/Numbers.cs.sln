@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers.cs", "Numbers.cs\Numbers.cs.csproj", "{A8E769CD-C409-47C7-BA8F-DD0DCB7C5F39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers2", "ConsoleApplication1\Numbers2.csproj", "{23B09FDF-EA93-47A6-87C5-386192CFD3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToFeet", "..\InchesToFeet\InchesToFeet.csproj", "{29DDC7A7-C2B1-4EEE-9E73-74D362400362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +17,14 @@ Global
 		{A8E769CD-C409-47C7-BA8F-DD0DCB7C5F39}.Debug|x86.Build.0 = Debug|x86
 		{A8E769CD-C409-47C7-BA8F-DD0DCB7C5F39}.Release|x86.ActiveCfg = Release|x86
 		{A8E769CD-C409-47C7-BA8F-DD0DCB7C5F39}.Release|x86.Build.0 = Release|x86
+		{23B09FDF-EA93-47A6-87C5-386192CFD3DF}.Debug|x86.ActiveCfg = Debug|x86
+		{23B09FDF-EA93-47A6-87C5-386192CFD3DF}.Debug|x86.Build.0 = Debug|x86
+		{23B09FDF-EA93-47A6-87C5-386192CFD3DF}.Release|x86.ActiveCfg = Release|x86
+		{23B09FDF-EA93-47A6-87C5-386192CFD3DF}.Release|x86.Build.0 = Release|x86
+		{29DDC7A7-C2B1-4EEE-9E73-74D362400362}.Debug|x86.ActiveCfg = Debug|x86
+		{29DDC7A7-C2B1-4EEE-9E73-74D362400362}.Debug|x86.Build.0 = Debug|x86
+		{29DDC7A7-C2B1-4EEE-9E73-74D362400362}.Release|x86.ActiveCfg = Release|x86
+		{29DDC7A7-C2B1-4EEE-9E73-74D362400362}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

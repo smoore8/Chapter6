@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Numbers
+namespace Numbers2
 {
     class Program
     {
@@ -19,6 +19,11 @@ namespace Numbers
             Console.WriteLine(a - b);
         }
 
+        public static int Product(int a, int b)
+        {
+            return a * b;
+        }
+
         static void Main(string[] args)
         {
             int q = 30, t = 39;
@@ -26,10 +31,11 @@ namespace Numbers
             Sum(q, t);
             Difference(q, t);
 
+            int result = Product(q, t);
+
+            Console.WriteLine(result);
 
 
         }
-
-
     }
 }
