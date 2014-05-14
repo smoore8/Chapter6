@@ -7,7 +7,7 @@ namespace Reverse4.cs
 {
     class Program
     {
-        public static void Reverse(ref int w, ref int x, ref int y, ref int z)
+        public static void Reverse(ref int w,ref int x, ref int y, ref int z)
         {
             int temp = w;
             int temp2 = x;
